@@ -1,4 +1,4 @@
-1688 Scraper + WooCommerce Uploader v1.0
+1688 Scraper + WooCommerce Uploader v1.0 with selenium
 It's console based script so all actions must be done in cmd/git bash/powershell
 # Project based
     - Python Selenium for extraction
